@@ -1,5 +1,4 @@
-![LeeSpect's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSpect&show_icons=true&theme=radical)
-[![wewqwew153](http://mazassumnida.wtf/api/v2/generate_badge?boj=wewqwew153)](https://solved.ac/wewqwew153)
+![LeeSpect's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSpect&show_icons=true&theme=radical)[![wewqwew153](http://mazassumnida.wtf/api/v2/generate_badge?boj=wewqwew153)](https://solved.ac/wewqwew153)
 
 ## Skills 👋
 ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
