@@ -35,7 +35,7 @@
 
 # Activities
 ## SK C&C AI Leader Academy
-***(2025.02~2025.07)***
+***(2025.02~)***
 
 프로젝트 |
 
