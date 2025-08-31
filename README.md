@@ -57,18 +57,55 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+### Programming Languages
+Java / Python / SQL / JavaScript
+
+### Backend
+Spring(Boot, MVC, Security, Data JPA) / FastAPI / DRF(Django Rest Framework) / JWT / Swagger / WebSockets
+
+### AI
+LangChain / LangGraph / RAG / CrewAI / Keras / LightGBM / Numpy / Pandas / PyTorch / Scikit-learn / TensorFlow / XGBoost / Jupyter(Notebook, Lab) / Google Colab
+
+### DevOps, Cloud, Infra
+AWS(EC2, S3) / OCI / Vultr / Docker / Kubernetes / ArgoCD / GitHub Actions / Jenkins / Nginx / CloudFlare
+
+### Database
+MariaDB / MySQL / Oracle DB / MongoDB / Redis / Neo4j / ChromaDB / SQLite / MyBatis / SQLAlchemy
+
+### Frontend
+Vue.js / Pinia / Vite / JSP / CSS3 / HTML5
+
+### QA & Testing
+JUnit5 / PyTest / Postman / Selenium
+
+### Tools, Collaboration, Misc
+Git / GitHub / GitLab / Eclipse / IntelliJ IDEA / PyCharm / VS Code / Cursor / JIRA / Notion / Trello / Discord / Mattermost / Slack / ESLint / Black / pip / Poetry / Maven / Gradle
+
+
+
+
+# Experiences
+## AI Engineer
+***(2025.09.~)***   
+AI Workforce team 2   
+SK AX [[Web](https://www.skax.co.kr/)]   
+
 
 
 # Activities
-## SK C&C AI Leader Academy
-***(2025.02~)***
+## SK AI Leader Academy(SKALA) 1기
+***(2025.02.~2025.07.)***
+
+경험 | 최종 프로젝트 우수상, AI Agent 미니 프로젝트 우승, ‘LLM 이해 및 활용’ & ‘생성형AI/LangChain’ 페어 프로그래밍 우승, 2기 재직자 특강 연사
 
 프로젝트 |
 
+- **SKAI(SK AI Interviewer) |** 비대면 AI 면접 서비스 - AI 기반 역량 평가 시스템
+- **FACMAN |** AI 기반 산업 설비 트러블슈팅 어시스턴트 및 실시간 화상회의 플랫폼
 - **틴즈메이트 |** 밸류체인 기반의 체험형 청소년 주식투자 교육 서비스
-- **Feliz |** 여행 MBTI 테스트 서비스 (https://www.fallin-mbti.site/)
+- **Feliz |** 여행 MBTI 테스트 서비스
 
-## 삼성 청년 SW 아카데미
+## 삼성 청년 SW 아카데미(SSAFY) 11기
 
 ***(2024.01.~2024.12.)***
 
@@ -76,7 +113,7 @@
 
 프로젝트 |
 
-- **듣공 |** 청각을 활용한 효과적 암기 증진 서비스
+- **듣공 |** 청각을 활용한 AI 기반 암기 증진 서비스
 - **Wish |** 범죄 예방 및 실종자 탐색 서비스
 - **Koala |** 이주 배경 학부모를 위한 한국어 교육 서비스
 - **EnjoyCourse |** 공공API를 활용한 데이트 코스 및 사진 스팟 정보 공유 플랫폼
@@ -112,6 +149,8 @@
 한국외국어대학교 AI융합(Software&AI)전공 | 융합일본지역전공 [졸업]
 
 ## 🔭 Awards / Certificates
+- SKALA 최종 프로젝트 우수상 | 2025.07
+- SSAFY SW Certificate 우수 | 2024.12
 - 데이터분석 준전문가(ADsP) | 2024.11
 - SQL 개발자(SQLD) | 2024.06
 - 제5회 HUFS Code Festival | 동상 | 2023.11
