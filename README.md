@@ -85,7 +85,7 @@ Git / GitHub / GitLab / Eclipse / IntelliJ IDEA / PyCharm / VS Code / Cursor / J
 
 
 # Experiences
-## AI Engineer
+## AI Software Engineer
 ***(2025.09.~)***   
 AI Workforce team 2   
 SK AX [[Web](https://www.skax.co.kr/)]   
