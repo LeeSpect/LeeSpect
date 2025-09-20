@@ -149,8 +149,8 @@ SK AX [[Web](https://www.skax.co.kr/)]
 한국외국어대학교 AI융합(Software&AI)전공 | 융합일본지역전공 [졸업]
 
 ## 🔭 Awards / Certificates
-- SKALA 최종 프로젝트 우수상 | 2025.07
-- SSAFY SW Certificate 우수 | 2024.12
+- SKALA 최종 프로젝트 | 우수상 | 2025.07
+- SSAFY SW Certificate | 우수 | 2024.12
 - 데이터분석 준전문가(ADsP) | 2024.11
 - SQL 개발자(SQLD) | 2024.06
 - 제5회 HUFS Code Festival | 동상 | 2023.11
